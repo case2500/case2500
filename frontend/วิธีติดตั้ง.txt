@@ -1,0 +1,11 @@
+ใช้คำสั่ง
+
+npm install
+
+แล้วกด enter
+
+สั่งรัน
+npm start
+
+production ใช้คำสั่ง
+npm run build
